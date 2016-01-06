@@ -44,6 +44,7 @@ Si vraiment vous n'avez, pour une raison inconnue (m'enfin!), pas pu installer N
 
 - JavaScript (HTML c'est pas la peine, le DOM on s'en fout) et vous n'avez pas besoin d'être un champion du monde
 - Python (pas d'inquiétude, je vous aurez mâché le boulot en préparant quelques helpers), pas d'inquiétude non plus sur le niveau requis, je dois juste avoir quelques jours d'avance sur vous, le Python c'est facile
+- **En électronique ? AUCUNE!!!**
 
 
 ### Autre
