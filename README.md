@@ -13,7 +13,7 @@ L'IOT est le buzzword du moment (même si ça existe finalement depuis longtemps
 **Objectifs:**
 
 - apprendre à utiliser MQTT (broker+client)
-- survoler CoAP
+- survoler CoAP (nous n'avons qu'une heure)
 - Utiliser MQTT, le SDK [Groove](http://www.dexterindustries.com/grovepi/) et [Johnny Five](https://github.com/rwaldron/johnny-five) pour interagir avec du matériel physique (Raspberry Pi, GrovePi, Arduino)
 - Et si vous êtes assez rapides vous apprendrez à piloter un drone "en équipe", avec MQTT et [CylonJS](http://cylonjs.com/) (et si vous ne l'êtes pas, on pourra toujours continuer dehors, mes "Raspberries" fonctionnent sur batteries)
 
